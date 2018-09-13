@@ -4,7 +4,8 @@
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
 int main(void) {
-	printf("Hello Sookmyung Electronics!\n");
+	printf("Hello Sookmyung Electronics! love love love \n");
 	
 	return 0;
 }
+
